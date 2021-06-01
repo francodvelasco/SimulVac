@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseContentIdentifier</key>
+	<string>com.apple.playgrounds.blank</string>
+	<key>BaseContentVersion</key>
+	<string>1.0</string>
+	<key>ContentType</key>
+	<string>PlaygroundBookUserEdit</string>
+	<key>Diffs</key>
+	<dict>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/167BD87C-1F17-464F-B632-66C3D56BFE89.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/167BD87C-1F17-464F-B632-66C3D56BFE89.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/487F1D03-449D-4748-B2F5-6EB4168E01D8.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/487F1D03-449D-4748-B2F5-6EB4168E01D8.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/49554015-FE80-4E59-B5D6-E57B13846BC8.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/49554015-FE80-4E59-B5D6-E57B13846BC8.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/6F6FF223-37AC-4E2D-B090-78254B93AD7E.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/6F6FF223-37AC-4E2D-B090-78254B93AD7E.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/FE282DE5-D0E7-49C5-B821-E38D36E598E0.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/FE282DE5-D0E7-49C5-B821-E38D36E598E0.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/UserManifest.plist</key>
+		<string>Added</string>
+		<key>Chapters/Chapter1.playgroundchapter/Pages/My Playground.playgroundpage/main.swift</key>
+		<string>Modified</string>
+		<key>Chapters/Chapter1.playgroundchapter/UserManifest.plist</key>
+		<string>Added</string>
+		<key>UserModules/Graph.playgroundmodule/Sources/Graph.swift</key>
+		<string>Added</string>
+		<key>UserModules/MainViews.playgroundmodule/Sources/CustomMainView.swift</key>
+		<string>Added</string>
+		<key>UserModules/MainViews.playgroundmodule/Sources/EndingView.swift</key>
+		<string>Added</string>
+		<key>UserModules/MainViews.playgroundmodule/Sources/IntroductionView.swift</key>
+		<string>Added</string>
+		<key>UserModules/PageViews.playgroundmodule/Sources/PageViews.swift</key>
+		<string>Added</string>
+		<key>UserModules/Population.playgroundmodule/Sources/Individual.swift</key>
+		<string>Added</string>
+		<key>UserModules/Population.playgroundmodule/Sources/PopulationView.swift</key>
+		<string>Added</string>
+		<key>UserModules/Population.playgroundmodule/Sources/PopulationViewModel.swift</key>
+		<string>Added</string>
+		<key>UserModules/Resources.playgroundmodule/Sources/Resources.swift</key>
+		<string>Added</string>
+		<key>UserModules/UserModule.playgroundmodule/Sources/SharedCode.swift</key>
+		<string>Removed</string>
+		<key>UserModules/Vaccines.playgroundmodule/Sources/Vaccine.swift</key>
+		<string>Added</string>
+		<key>UserModules/Vaccines.playgroundmodule/Sources/VaccineDetailedView.swift</key>
+		<string>Added</string>
+		<key>UserModules/Vaccines.playgroundmodule/Sources/VaccineDetails.swift</key>
+		<string>Added</string>
+		<key>UserModules/Vaccines.playgroundmodule/Sources/VaccineView.swift</key>
+		<string>Added</string>
+	</dict>
+	<key>FormatVersion</key>
+	<integer>2</integer>
+	<key>UpdatedContentVersion</key>
+	<string>1.0</string>
+</dict>
+</plist>

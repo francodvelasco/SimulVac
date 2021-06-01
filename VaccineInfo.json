@@ -1,0 +1,113 @@
+[
+    {
+        "vaccine": "Comirnaty",
+        "manufacturer": "Pfizer-BioNTech",
+        "countryOfOrigin": "United States",
+        "dosageInfo": "2 doses",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 100,
+        "mildEfficacyRate": 95,
+
+        "WHOInfo": "https://extranet.who.int/pqweb/vaccines/who-recommendation-covid-19-mrna-vaccine-nucleoside-modified-comirnaty",
+        "FDAInfo": "https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/pfizer-biontech-covid-19-vaccine",
+        "CDCInfo": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Pfizer-BioNTech.html",
+
+        "percentageWithThisVaccine": 17
+    },
+    {
+        "vaccine": "Moderna",
+        "manufacturer": "Moderna",
+        "countryOfOrigin": "United States",
+        "dosageInfo": "2 doses",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 100,
+        "mildEfficacyRate": 94,
+
+        "WHOInfo": "https://www.who.int/publications/i/item/interim-recommendations-for-use-of-the-moderna-mrna-1273-vaccine-against-covid-19",
+        "FDAInfo": "https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/moderna-covid-19-vaccine",
+        "CDCInfo": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/Moderna.html",
+
+        "percentageWithThisVaccine": 14
+    },
+    {
+        "vaccine": "JNJ-78436735",
+        "manufacturer": "Johnson & Johnson",
+        "countryOfOrigin": "United States",
+        "dosageInfo": "1 dose",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 85,
+        "mildEfficacyRate": 66,
+
+        "WHOInfo": "",
+        "FDAInfo": "https://www.fda.gov/emergency-preparedness-and-response/coronavirus-disease-2019-covid-19/janssen-covid-19-vaccine",
+        "CDCInfo": "https://www.cdc.gov/coronavirus/2019-ncov/vaccines/different-vaccines/janssen.html",
+
+        "percentageWithThisVaccine": 7
+    },
+    {
+        "vaccine": "Sputnik V",
+        "manufacturer": "Gamaleya National Center",
+        "countryOfOrigin": "Russia",
+        "dosageInfo": "2 doses",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 100,
+        "mildEfficacyRate": 92,
+
+        "WHOInfo": "",
+        "FDAInfo": "",
+        "CDCInfo": "",
+
+        "percentageWithThisVaccine": 11
+    },
+    {
+        "vaccine": "Novavax",
+        "manufacturer": "Novavax",
+        "countryOfOrigin": "",
+        "dosageInfo": "2 doses",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 100,
+        "mildEfficacyRate": 77,
+        "WHOInfo": "",
+        "FDAInfo": "",
+        "CDCInfo": "",
+
+        "percentageWithThisVaccine": 21
+    },
+    {
+        "vaccine": "Covishield / Vaxzevria",
+        "manufacturer": "Oxford-Astrazeneca",
+        "countryOfOrigin": "United Kingdom",
+        "dosageInfo": "2 doses",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 100,
+        "mildEfficacyRate": 76,
+
+        "WHOInfo": "https://www.who.int/news-room/feature-stories/detail/the-oxford-astrazeneca-covid-19-vaccine-what-you-need-to-know",
+        "FDAInfo": "",
+        "CDCInfo": "",
+
+        "percentageWithThisVaccine": 12
+    },
+    {
+        "vaccine": "CoronaVac",
+        "manufacturer": "Sinovac",
+        "countryOfOrigin": "China",
+        "dosageInfo": "2 doses",
+
+        "deathEfficacyRate": 100,
+        "severeEfficacyRate": 100,
+        "mildEfficacyRate": 78,
+
+        "WHOInfo": "",
+        "FDAInfo": "",
+        "CDCInfo": "",
+
+        "percentageWithThisVaccine": 18
+    }
+]
